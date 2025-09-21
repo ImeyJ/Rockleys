@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header Image](./imey7.gif)
+![imey7](https://github.com/ImeyJ/Rockleys/raw/main/imey7.gif)
 
 <br/>
 
