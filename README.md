@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://telegra.ph/Gif-09-21-5" alt="Header Image" width="100%"/>
+![Header Image](./imey7.gif)
 
 <br/>
 
