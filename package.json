@@ -51,9 +51,8 @@
     "axios": "^1.12.1",
     "audio-decode": "^2.2.2", 
     "cache-manager": "^5.7.6", 
-    "chalk": "^4.1.2"
+    "chalk": "^4.1.2",
     "fflate": "^0.8.2",
-    "gradient-string": "^2.0.2"
     "lodash": "^4.17.21",
     "link-preview-js": "^3.0.14", 
     "lru-cache": "^11.1.0", 
