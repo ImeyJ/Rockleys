@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://l.top4top.io/p_35197pwqn0.gif" alt="Header Image" width="100%"/>
+<img src="https://telegra.ph/Gif-09-21-5" alt="Header Image" width="100%"/>
 
 <br/>
 
