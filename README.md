@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://l.top4top.io/p_35197pwqn0.gif" alt="Header Image" width="100%"/>
+![imey7](https://github.com/ImeyJ/Rockleys/raw/main/imey7.gif)
 
 <br/>
 
