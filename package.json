@@ -1,6 +1,6 @@
 {
   "name": "rockleys",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "WhatsApp API Modification By IMEY7",
   "keywords": [
     "whatsapp",
@@ -53,7 +53,7 @@
     "cache-manager": "^5.7.6",
     "cheerio": "^1.0.0-rc.10",
     "libphonenumber-js": "^1.10.20",
-    "libsignal": "npm:@imey7ee/rocksignal-node",
+    "libsignal": "npm:@imey7ee/rocksignal-node@1.0.0",
     "lodash": "^4.17.21",
     "music-metadata": "^7.12.3",
     "pino": "^9.6",
@@ -62,7 +62,7 @@
     "ws": "^8.13.0"
   },
   "devDependencies": {
-    "@imey7ee/rockslint-config": "latest",
+    "@imey7ee/rockslint-config": "^1.0.0",
     "@types/got": "^9.6.11",
     "@types/jest": "^27.5.1",
     "@types/node": "^16.18.126",
